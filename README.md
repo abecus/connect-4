@@ -1,2 +1,2 @@
 # connect-4
-simple threaded connect 4 game
+A multiplayer, multi-threaded connect-4 game.
